@@ -1,4 +1,4 @@
-#### INGENIERÍA DE SOFTWARE 
+# INGENIERÍA DE SOFTWARE 
 ### Unidad 1: Introducción a la ingeniería del software y sistemas de información
 * 1.1. Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión.
 * 1.2. La importancia de la ingeniería del software.
