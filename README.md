@@ -1,7 +1,7 @@
 # IS2020
-### Ingenieria de software 
+#### Ingenieria de software 
 
-##**Unidad 1: Introducción a la ingeniería del software y sistemas de información**
+###Unidad 1: Introducción a la ingeniería del software y sistemas de información**
 * 1.1. Conceptos de Ingeniería del Software:mitos, paradigma, ingeniería de software,calidad, proceso, método, herramienta, espectro de gestión.
 * 1.2. La importancia de la ingeniería del software.
 * 1.3. Historia de la Ingeniería del Software.
@@ -20,7 +20,7 @@
 * 4.2. Construcción: codificación, pruebas y evaluación,manual del usuario, manual técnico.
 * 4.3. Medida, métrica e indicador.
 * 4.4. Tipos de métricas: métricas de proceso, métricas de proyecto, métricas orientadas a punto de función, métricas orientadas al tamaño, métricas para la calidad del software.
-* 4.5. Implementación y mantenimiento: entrega, retroalimentación del cliente.*
+* 4.5. Implementación y mantenimiento: entrega, retroalimentación del cliente.
 **Unidad 5: Calidad del software**
 * 5.1. Definición de calidad y calidad del software.
 * 5.2. Importancia de la calidad.
